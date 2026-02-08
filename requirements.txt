@@ -1,0 +1,4 @@
+langgraph>=0.0.44
+ollama>=0.1.7
+neo4j>=5.14.0
+pydantic>=2.5.0
